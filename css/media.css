@@ -1,0 +1,383 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*Header Start*/
+	.logo {
+	padding-left: 11px;
+	}
+	.menu ul li a {
+    padding: 1px 10px !important;
+    width: 51%;
+}
+	.menu ul{
+		padding-top:5px;
+	}
+	/*Header End*/
+
+	/*Banner Start*/
+	.slider_text {
+    padding: 50px 55px;
+    text-align: center;
+}
+	.slider_text h1 {
+    font-size: 25px;
+}
+	.slider_text p {
+    letter-spacing: 0px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+	.s_prev {
+    left: 0;
+}
+	.s_next {
+    right: 0;
+}
+	.b_btn {
+    text-align: center;
+    margin-bottom: 10px;
+}
+	.b_btn button {
+    letter-spacing: 0px;
+    padding: 5px 20px;
+    margin-bottom: 10px;
+}
+	.b_btn1 {
+    margin-right: 0px !important;
+}
+	.b_btn2 {
+    padding: 5px 30px !important;
+}
+	.s_indicators {
+    bottom: 0;
+}
+	.s_indicators li {
+    width: 12px;
+    height: 12px;
+}
+	/*Banner End*/
+
+	/*What Start*/
+	.what {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+	.w_contents h1 {
+    font-size: 28px;
+}
+	.read {
+    text-align: center;
+    margin-bottom: 20px;
+}
+	.r_b {
+    border: none;
+    padding: 40px 40px;
+}
+	.r_icon i {
+    font-size: 20px;
+    padding-bottom: 10px;
+}	
+	.r_text h1 {
+    font-size: 18px;
+}
+	.r_b p {
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+	.what {
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+	/*What End*/
+	/*Time Start*/
+	.t_contents h1 {
+    font-size: 20px;
+}
+	.b_box {
+    padding: 20px 0;
+    margin: 10px 30px;
+}
+	.b_box h2 {
+    font-size: 55px;
+}
+	.box_btn {
+    margin-top: 60px;
+}
+	/*Time End*/
+	/*Team Start*/
+	.w_contents h1 {
+    font-size: 20px;
+}
+	.w_contents img {
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+	/*Team End*/
+
+	/*Upcoming Start*/
+	.upcoming {
+    padding-bottom: 50px;
+}
+	.u_img {
+    top: 229px;
+    padding: 30px;
+}
+	.u_img h3 {
+    font-size: 16px;
+}
+	/*Upcoming End*/	
+	/*Our Start*/
+	.o_contents h1 {
+    font-size: 19px !important;
+}	
+	.o_contents h2 {
+    font-size: 50px;
+}
+	/*Our End*/	
+	/*News Start*/
+	.l_c_img {
+    margin-top: 10px;
+    text-align:center;
+}
+	.l_c_text h5 {
+    font-size: 16px;
+    margin: 10px 0;
+}
+	.l_c_text p {
+    font-size: 16px;
+}
+	.l_c_btn {
+    padding: 10px 0;
+}
+
+	/*News end*/
+	/*Late Start*/
+	.late {
+    padding-top: 30px;
+    padding-bottom: 45px;
+}
+	.b_logo {
+    padding-top: 60px;
+}
+	.b_logo a img {
+    margin: 0 3px;
+    width: 22%;
+}
+	/*Late End*/
+	/*VDo Start*/
+	.vdo {
+    padding: 0 0;
+}
+	/*VDo End*/
+	/*Footer*/
+	footer {
+    padding: 30px 0;
+}
+	.f_contents ul li a {
+    font-size: 17px;
+    padding: 8px;
+}
+	/*Footer*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*Header Start*/
+	.logo {
+	padding-left: 15px;
+	}
+	.menu ul li a {
+    padding: 5px 15px !important;
+    width: 30%;
+}
+	.menu ul{
+		padding-top:10px;
+	}
+	/*Header End*/
+
+	/*Slider Start*/
+	.b_contents h1 {
+    font-size: 36px;
+}
+	.slider_text {
+    padding: 80px 58px;
+}
+	.slider_text h1 {
+    font-size: 28px;
+}
+	.slider_text p {
+    letter-spacing: 0;
+}
+	/*Slider End*/
+
+	/*What start*/
+	.what {
+    margin-top: 50px;
+    margin-bottom: 65px;
+}
+	.r_b {
+    padding: 40px 40px;
+}
+	.read {
+    margin-bottom: 20px;
+}
+	/*What End*/
+
+	/*Time Start*/
+	.t_contents h1 {
+    font-size: 28px;
+}
+	.b_box {
+    padding: 15px 0;
+    margin: 10px 0;
+}
+	.b_box h2 {
+    font-size: 60px;
+}
+	/*Time End*/
+	/*Upcoming Start*/
+	.upcoming {
+    padding-bottom: 60px;
+}
+	.u_img {
+    top: 460px;
+}
+	/*Upcoming End*/
+	/*Our Start*/
+	.o_contents h1 {
+    font-size: 20px !important;
+}	
+	.o_contents h2 {
+    font-size: 60px;
+}
+	/*Our End*/
+	/*News Start*/
+	.l_c_img {
+    margin-top: 15px;
+}
+	.l_c_text h5 {
+    font-size: 16px;
+    margin: 15px 0;
+}
+	.l_c_text p {
+    font-size: 16px;
+}
+	.l_c_btn {
+    padding: 15px 0;
+}
+	/*News end*/
+
+	/*Late Start*/
+	.b_logo {
+    padding-top: 70px;
+}
+	.b_logo a img {
+    width: 22%;
+    margin: 0 6px;
+}
+	/*Late End*/
+	/*VDo Start*/
+	.vdo {
+    padding: 0 0;
+}
+	/*VDo End*/
+	/*Footer Start*/
+	footer {
+    padding: 50px 0;
+}
+	.f_contents ul li a {
+    font-size: 20px;
+    padding: 0 10px;
+    float: left;
+}
+	.f_contents p {
+    float: right;
+    margin-top: 20px;
+}
+	/*Footer End*/
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*Header Start*/
+	.logo {
+	padding-left: 15px;
+	}
+	.menu ul li a {
+    padding: 5px 15px !important;
+    width: 22%;
+}
+	.menu ul{
+		padding-top:15px;
+	}
+	/*Header End*/ 
+	/*Slider Start*/
+	.slider_text h1 {
+    font-size: 32px;
+}
+	.slider_text p {
+    letter-spacing: 0;
+}
+	.b_btn button {
+    padding: 10px 17px;
+}
+	.b_btn1 {
+    margin-right: 6px !important;
+}
+	.b_btn2 {
+    padding: 10px 27px !important;
+}
+	/*Slider End*/
+	/*What Start*/
+	.read {
+    margin-bottom: 20px;
+}
+	/*What End*/
+	/*Time Start*/
+	.b_box {
+    padding: 25px 0px;
+    margin: 0 0;
+}
+	/*Time End*/
+
+	/*Upcoming Start*/
+	.u_img {
+    top: 257px;
+    padding: 30px;
+}	
+	.u_img h3 {
+    font-size: 20px;
+}
+	/*Upcoming End*/
+	/*Late Start*/
+	.b_logo a img {
+    margin: 0 14px;
+    width: 20%;
+}
+	/*Late End*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*Time Start*/
+	.b_box {
+    margin: 0 0;
+}
+	/*Time End*/
+	/*Upcoming Start*/
+	.u_img {
+    top: 300px;
+    padding: 30px;
+}	
+	.u_img h3 {
+    font-size: 23px;
+}
+	/*Upcoming End*/
+	/*Late Start*/
+	.b_logo a img {
+    margin: 0 44px;
+}
+	/*Late End*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {  }
